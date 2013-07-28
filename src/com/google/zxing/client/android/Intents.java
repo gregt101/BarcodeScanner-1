@@ -153,6 +153,12 @@ public final class Intents {
      */
     public static final String SAVE_HISTORY = "SAVE_HISTORY";
 
+    public static final String ONSCREEN_FLASH_CONTROL = "ONSCREEN_FLASH_CONTROL";
+
+    public static final String SCAN_CONTINUOUS = "SCAN_CONTINUOUS";
+
+    public static final String RESULT_CONTINUOUS = "SCAN_CONTINUOUS_RESULT";
+
     private Scan() {
     }
   }
