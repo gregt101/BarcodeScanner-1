@@ -10,7 +10,7 @@
     <name>BarcodeScanner</name>
     <groupId>com.allogy.zxing</groupId>
     <artifactId>barcode-scanner</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>apk</packaging>
 
     <description>
